@@ -1,0 +1,159 @@
+ @font-face {
+font-family: myFont;
+src: url(fonts/Jose.ttf);
+}
+
+body {
+    font-family: myFont, sans-serif;
+    
+  }
+  
+.title{
+    font-family: myFont;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.navbar {
+    text-decoration: none;
+    font-family: myFont;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+    font-size: small;
+    
+  }
+
+  .navbar a {
+    text-decoration: none;
+  }
+  
+  .pic1, .pic2 {
+    max-width: 400px;
+    max-height: 400px;
+  }
+
+  .photob1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+  }
+
+  .pic3,
+  .pic4,
+  .pic8,
+  .pic9,
+  .pic14,
+  .pic15,
+  .pic18,
+  .pic19,
+  .pic20,
+  .pic21,
+  .pic27,
+  .pic28,
+  .pic29,
+  .pic30,
+  .pic33,
+  .pic34,
+  .pic35
+    {
+    max-width: 450px;
+    max-height: 450px;
+  }
+
+ 
+
+   
+  .photob3,
+  .photob4,
+  .photob5,
+  .photob7,
+  .photob24
+    {
+    display: flex;
+    justify-content: center;
+  }
+
+  .photob8 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+  }
+
+  .photob2,
+  .photob6,
+  .photob9,
+  .photob10,
+  .photob11,
+  .photob12,
+  .photob13,
+  .photob14,
+  .photob15,
+  .photob16,
+  .photob17,
+  .photob18,
+  .photob19,
+  .photob20,
+  .photob21,
+  .photob22,
+  .photob23,
+  .photob25,
+  .photob26,
+  .photob27,
+  .photob28
+   {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 30px;
+  }
+
+  .pic36,
+  .pic37,
+  .pic41,
+  .pic42,
+  .pic43,
+  .pic44 {
+    max-width: 550px;
+    max-height: 550px;
+  }
+
+  .pic5,
+  .pic6,
+  .pic7,
+  .pic17,
+  .pic26,
+  .pic31
+   {
+    max-width: 750px;
+    max-height: 750px;
+  }
+
+  .pic10,
+  .pic16,
+  .pic32,
+  .pic38,
+  .pic39,
+  .pic40 {
+    max-width: 850px;
+    max-height: 850px;
+  }
+
+  .pic11,
+  .pic12,
+  .pic13
+  {
+    max-width: 300px;
+    max-height: 300px;
+  }
+
+  .pic23,
+  .pic24{
+    max-width: 400px;
+    max-height: 400px;
+  }
